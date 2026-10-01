@@ -1,0 +1,7 @@
+#pragma once
+#define WIFI_SSID "YOUR_WIFI"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
+#define MQTT_HOST "192.168.1.100"
+#define MQTT_PORT 1883
+#define EQUIPMENT_ID "CNC-042"
+#define DEVICE_ID "ESP32-CNC-042"
